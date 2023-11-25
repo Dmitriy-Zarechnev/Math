@@ -2,8 +2,6 @@ alert(`
     Hello! Welcome to "PlayBox" version 0.1
 `)
 
-console.log('hello')
-
 let game = 1
 while (game) {
   const typeGame = prompt(`
